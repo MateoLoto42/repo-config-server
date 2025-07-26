@@ -1,5 +1,0 @@
-server:
-  port: 8081
-spring:
-  aplication:
-    name: config-server
